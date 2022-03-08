@@ -1,0 +1,45 @@
+﻿@model EntityLayer.Concrete.Message
+
+@{
+    ViewBag.Title = "MessageSendBoxDetail";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <br />
+    <br />
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card card-primary card-outline">
+                        <div class="card-header">
+                            <h3 class="card-title">Gelen Mesaj</h3>
+                        </div>
+
+                        <div class="card-body p-0">
+                            <div class="mailbox-read-info">
+                                <h5>Konu: @Html.DisplayFor(b => b.MessageSubject)</h5>
+                                <h6>
+                                    Kime: @Html.DisplayFor(b => b.ReceiverMail)
+                                    <span class="mailbox-read-time float-right">@Model.MessageDate.ToString("dd-MMM-yyyy")</span>
+                                </h6>
+                            </div>
+                            <div class="mailbox-read-message">
+                                <p>@Html.DisplayFor(b => b.MessageContent)</p>
+                                <p>
+                                    Teşekkürler,<br>@Html.DisplayFor(b => b.SenderMail)
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+
+

@@ -1,0 +1,57 @@
+﻿@model EntityLayer.Concrete.Message
+
+@{
+    ViewBag.Title = "NewMessage";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <br />
+    <div class="wrapper">
+        <section class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    @Html.Action("MessageSideBar", "Contact")
+                    <div class="col-md-9">
+                        @using (Html.BeginForm("NewMessage", "Message", FormMethod.Post))
+                        {
+
+                        <div class="form-group">
+
+                            @Html.Label("Alıcı")
+                            @Html.TextBoxFor(n => n.ReceiverMail, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(n => n.ReceiverMail)
+                            <br />
+                            <br />
+                            @Html.Label("Mesaj Konusu")
+                            @Html.TextBoxFor(n => n.MessageSubject, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(n => n.MessageSubject)
+                            <br />
+                            <br />
+                            @Html.Label("Mesaj")
+                            @Html.TextAreaFor(n => n.MessageContent, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(n => n.MessageContent)
+                            <br />
+                            <br />
+                            <button class="btn btn-primary">Mesajı Gönder</button>
+                        </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script src="~/AdminLTE-3.0.4s/plugins/jquery/jquery.min.js"></script>
+    <script src="~/AdminLTE-3.0.4/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/AdminLTE-3.0.4/dist/js/adminlte.min.js"></script>
+    <script src="~/AdminLTE-3.0.4/dist/js/demo.js"></script>
+    <script src="~/AdminLTE-3.0.4/plugins/summernote/summernote-bs4.min.js"></script>
+    <script>
+        $(function () {
+            $('#compose-textarea').summernote()
+        })
+    </script>
+</body>
+</html>
+

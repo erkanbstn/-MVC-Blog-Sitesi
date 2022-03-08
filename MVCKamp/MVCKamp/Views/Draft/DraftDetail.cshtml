@@ -1,0 +1,60 @@
+﻿@using EntityLayer.Concrete
+@model List<Draft>
+@{
+    ViewBag.Title = "DraftDetail";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <br />
+    <div class="wrapper">
+        <section class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    @Html.Action("MessageSideBar", "Contact")
+                    <div class="col-md-9">
+                        <div class="card card-primary card-outline">
+                            <div class="card-header">
+                                <h3 class="card-title">Taslağı Görüntüle</h3>
+                            </div>
+                            @foreach (var i in Model)
+                            {
+                                <div class="card-body">
+                                    <div class="form-group">
+                                        Alıcı :
+                                        <input type="text" value="@i.DraftReceiver" class="form-control" />
+                                        <br />
+                                        Mesaj :
+                                        <textarea id="compose-textarea" class="form-control" style="height: 300px">
+@i.DraftContent
+                    </textarea>
+                                    </div>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="float-right">
+                                        <button type="submit" class="btn btn-warning">Taslağı Sil</button>
+                                        <button type="submit" class="btn btn-success"><i class="far fa-envelope"></i> Taslağı Gönder</button>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script src="~/AdminLTE-3.0.4s/plugins/jquery/jquery.min.js"></script>
+    <script src="~/AdminLTE-3.0.4/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/AdminLTE-3.0.4/dist/js/adminlte.min.js"></script>
+    <script src="~/AdminLTE-3.0.4/dist/js/demo.js"></script>
+    <script src="~/AdminLTE-3.0.4/plugins/summernote/summernote-bs4.min.js"></script>
+    <script>
+        $(function () {
+            $('#compose-textarea').summernote()
+        })
+    </script>
+</body>
+</html>
+
+

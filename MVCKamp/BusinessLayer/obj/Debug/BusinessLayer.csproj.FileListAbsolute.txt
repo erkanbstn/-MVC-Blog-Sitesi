@@ -1,0 +1,40 @@
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\BusinessLayer\obj\Debug\BusinessLayer.pdb

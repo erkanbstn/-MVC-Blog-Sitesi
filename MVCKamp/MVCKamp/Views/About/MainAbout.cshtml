@@ -1,0 +1,51 @@
+﻿@using EntityLayer.Concrete
+@model List<About>
+@{
+    ViewBag.Title = "MainAbout";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<h2>Hakkımda Veri Listesi</h2>
+<br />
+<table class="table table-hover">
+    <tr>
+        <th>ID</th>
+        <th>Detay1</th>
+        <th>Detay2</th>
+        <th>Resim1</th>
+        <th>Resim2</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.AboutID
+            </td>
+            <td>
+                @item.AboutDetails1
+            </td>
+            <td>
+                @item.AboutDetails2
+            </td>
+            <td>
+                @item.AboutImage1
+            </td>
+            <td>
+                @item.AboutImage2
+            </td>
+            <td>
+                <a href="~/About/DeleteAbout/@item.AboutID" class="btn btn-warning">Aktif Yap</a>
+            </td>
+            <td>
+                <a href="~/About/UpdateAbout/@item.AboutID" class="btn btn-success">Pasif Yap</a>
+            </td>
+        </tr>
+    }
+</table>
+<br />
+<button class="btn btn-primary" data-toggle="modal" data-target="#Modal1">
+    Yeni Hakkımızda Yazı Girişi
+</button>
+@Html.Action("AboutPartial", "About")

@@ -1,0 +1,311 @@
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\MVCKamp.dll.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\MVCKamp.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\MVCKamp.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\csc.exe
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\csc.exe.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\csc.rsp
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\csi.exe
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\csi.exe.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\csi.rsp
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.AppContext.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Console.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Net.Http.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\vbc.exe
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\vbc.exe.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\vbc.rsp
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\Antlr3.Runtime.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\Newtonsoft.Json.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.Helpers.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.Mvc.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.Optimization.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.Razor.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.WebPages.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\WebGrease.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.Helpers.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.Mvc.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.Optimization.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.Razor.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.WebPages.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\Newtonsoft.Json.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\Antlr3.Runtime.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\obj\Debug\MVCKamp.csproj.AssemblyReference.cache
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\obj\Debug\MVCKamp.csproj.CoreCompileInputs.cache
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\obj\Debug\MVCKamp.csproj.CopyComplete
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\obj\Debug\MVCKamp.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\obj\Debug\MVCKamp.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\BusinessLayer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\DataAccessLayer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\EntityLayer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\EntityFramework.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\BusinessLayer.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\BusinessLayer.dll.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\DataAccessLayer.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\DataAccessLayer.dll.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\EntityLayer.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\EntityLayer.dll.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\EntityFramework.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\EntityFramework.SqlServer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\EntityFramework.SqlServer.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\FluentValidation.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\MVCKamp\bin\FluentValidation.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\MVCKamp.dll.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\MVCKamp.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\MVCKamp.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\csc.exe
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\csc.exe.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\csc.rsp
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\csi.exe
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\csi.exe.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\csi.rsp
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.AppContext.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Console.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.IO.Compression.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Net.Http.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.ValueTuple.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\vbc.exe
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\vbc.exe.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\vbc.rsp
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\VBCSCompiler.exe
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\Antlr3.Runtime.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\BusinessLayer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\DataAccessLayer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\EntityFramework.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\EntityFramework.SqlServer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\EntityLayer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\FluentValidation.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\Newtonsoft.Json.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.Helpers.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.Mvc.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.Optimization.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.Razor.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.Razor.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\WebGrease.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\BusinessLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\BusinessLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\DataAccessLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\DataAccessLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\EntityLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\EntityLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\EntityFramework.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\EntityFramework.SqlServer.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\FluentValidation.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.Helpers.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.Mvc.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.Optimization.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.Razor.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.Razor.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\Newtonsoft.Json.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\Antlr3.Runtime.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\obj\Debug\MVCKamp.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\obj\Debug\MVCKamp.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\obj\Debug\MVCKamp.csproj.CopyComplete
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\obj\Debug\MVCKamp.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\obj\Debug\MVCKamp.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\PagedList.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\PagedList.Mvc.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\PagedList.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\MVCKamp\bin\PagedList.Mvc.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\MVCKamp.dll.config
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\MVCKamp.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\MVCKamp.pdb
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\csc.exe
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\csc.exe.config
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\csc.rsp
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\csi.exe
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\csi.exe.config
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\csi.rsp
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.AppContext.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Console.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.IO.Compression.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Net.Http.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.ValueTuple.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\vbc.exe
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\vbc.exe.config
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\vbc.rsp
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\VBCSCompiler.exe
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\Antlr3.Runtime.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\BusinessLayer.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\DataAccessLayer.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\EntityFramework.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\EntityFramework.SqlServer.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\EntityLayer.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\FluentValidation.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\Newtonsoft.Json.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\PagedList.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\PagedList.Mvc.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.Helpers.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.Mvc.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.Optimization.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.Razor.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.Razor.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\WebGrease.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\BusinessLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\BusinessLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\DataAccessLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\DataAccessLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\EntityLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\EntityLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\EntityFramework.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\EntityFramework.SqlServer.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\FluentValidation.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\PagedList.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\PagedList.Mvc.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.Helpers.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.Mvc.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.Optimization.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.Razor.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\System.Web.WebPages.Razor.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\Newtonsoft.Json.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\Antlr3.Runtime.pdb
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\obj\Debug\MVCKamp.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\obj\Debug\MVCKamp.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\obj\Debug\MVCKamp.csproj.CopyComplete
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\obj\Debug\MVCKamp.dll
+C:\Users\profe\Desktop\VisualProjects\BitenProjeler\MVCKamp\MVCKamp\obj\Debug\MVCKamp.pdb

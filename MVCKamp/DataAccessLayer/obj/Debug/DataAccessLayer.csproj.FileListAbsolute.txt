@@ -1,0 +1,52 @@
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig2.resources
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig21.resources
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig3.resources
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig5.resources
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentstatusadd.resources
+C:\Users\Geo\Desktop\Visual Projects\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.headingadd.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig2.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig21.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig3.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig5.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentstatusadd.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.headingadd.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_message.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.taslak_mig.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.draftreceivereklendi.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.contactdate_eklendi.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.image_eklendi.resources
+C:\Users\profe\Desktop\VisualProjects\DevamEdenProjeler\MVCKamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.admin_eklendi.resources

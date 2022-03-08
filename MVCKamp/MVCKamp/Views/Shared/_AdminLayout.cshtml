@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>MVC SOLID</title>
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="~/AdminLTE-3.0.4/plugins/fontawesome-free/css/all.min.css">
+    <!-- IonIcons -->
+    <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/AdminLTE-3.0.4/dist/css/adminlte.min.css">
+    <!-- Google Font: Source Sans Pro -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+</head>
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <!-- Navbar -->
+        <!-- /.navbar -->
+        <!-- Main Sidebar Container -->
+        <aside class="main-sidebar sidebar-dark-primary elevation-4">
+            <div class="sidebar">
+                <nav class="mt-2">
+                    <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+                        <!-- Add icons to the links using the .nav-icon class
+                        with font-awesome or any other icon font library -->
+                        @if (User.IsInRole("B"))
+                        {
+
+            <li class="nav-item">
+                <a href="~/Category/MainCategory" class="nav-link">
+                    <i class="nav-icon far fa-image"></i>
+                    <p>
+                        Category
+                    </p>
+                </a>
+            </li>}
+
+                        <li class="nav-item">
+                            <a href="~/Heading/MainHeading" class="nav-link">
+                                <i class="nav-icon far fa-image"></i>
+                                <p>
+                                    Heading
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="~/Writer/MainWriter" class="nav-link">
+                                <i class="nav-icon far fa-image"></i>
+                                <p>
+                                    Writer
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="~/Heading/HeadingReport" class="nav-link">
+                                <i class="nav-icon far fa-image"></i>
+                                <p>
+                                    Reports
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="~/Chart/AnaChart" class="nav-link">
+                                <i class="nav-icon far fa-image"></i>
+                                <p>
+                                    Graphs
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="~/About/MainAbout" class="nav-link">
+                                <i class="nav-icon far fa-image"></i>
+                                <p>
+                                    About
+                                </p>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a href="~/Contact/MainContact" class="nav-link">
+                                <i class="nav-icon far fa-image"></i>
+                                <p>
+                                    Contact
+                                </p>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a href="~/Gallery/MainGallery" class="nav-link">
+                                <i class="nav-icon far fa-image"></i>
+                                <p>
+                                    Gallery
+                                </p>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a href="~/Vitrin/AnaVitrin" class="nav-link">
+                                <i class="nav-icon far fa-image"></i>
+                                <p>
+                                    Go To Site
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="~/Login/CikisYap" class="nav-link">
+                                <i class="nav-icon far fa-image"></i>
+                                <p>
+                                    Log Out
+                                </p>
+                            </a>
+                        </li>
+                    </ul>
+
+
+                </nav>
+                <!-- /.sidebar-menu -->
+            </div>
+            <!-- /.sidebar -->
+        </aside>
+
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper">
+            <div class="content">
+                @RenderBody()
+            </div>
+        </div>
+        <footer class="main-footer">
+            <strong>Copyright &copy; 2014-2019 <a href="https://www.linkedin.com/in/erkan-bostan-11257a210/">Erkan Bostan OOP MVC</a>.</strong>
+            All rights reserved.
+            <div class="float-right d-none d-sm-inline-block">
+                <b>Version</b> 3.0.4
+            </div>
+        </footer>
+    </div>
+    <script src="~/AdminLTE-3.0.4/plugins/jquery/jquery.min.js"></script>
+    <script src="~/AdminLTE-3.0.4/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/AdminLTE-3.0.4/dist/js/adminlte.js"></script>
+    <script src="~/AdminLTE-3.0.4/plugins/chart.js/Chart.min.js"></script>
+    <script src="~/AdminLTE-3.0.4/dist/js/demo.js"></script>
+    <script src="~/AdminLTE-3.0.4/dist/js/pages/dashboard3.js"></script>
+</body>
+</html>

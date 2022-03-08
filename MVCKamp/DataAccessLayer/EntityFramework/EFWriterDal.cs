@@ -1,0 +1,24 @@
+﻿using DataAccessLayer.Abstract;
+using DataAccessLayer.Concrete;
+using DataAccessLayer.Concrete.Repositories;
+using EntityLayer.Concrete;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace DataAccessLayer.EntityFramework
+{
+    public class EFWriterDal : GenericRepository<Writer>, IWriterDal
+    {
+        public int MailBul(string mail)
+        {
+            using (var x = new Context())
+            {
+                var v = x.Writers.Where(n => n.WriterMail == mail).Select(n => n.WriterID).FirstOrDefault();
+                return v;
+            }
+        }
+
+    }
+}
